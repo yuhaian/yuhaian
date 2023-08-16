@@ -1,4 +1,3 @@
-### Herbert Yu (余海安)
+### Herbert Yu
 
-I'm a software engineer in San Francisco bay area. Yes, we build software. And I think a lot on system as well.
-
+I'm a Software Engineer in San Francisco Bay Area. With remote working after pandemic, I do move around a lot, from city to city, hiking and running, as well as working on open source software.
